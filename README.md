@@ -1,7 +1,7 @@
 ### Hi there 👋, im Leon!
 
 - 🌍 Social Media Network [SyntecMedia](https://beta.syntecmedia.com/)
-- ☁️ Free Game Server [SyntecLabs](https://panel.synteclabs.net) 
+- ☁️ Free Game Server [SyntecLabs](https://hosting.synteclabs.net) 
 - 🧑 Contact: [LinkedIn](https://de.linkedin.com/in/leon-jockschies-8735061ab), [Xing](https://www.xing.com/profile/Leon_Jockschies) 
 
 - 💻 C#, VB, JavaScript, Python
