@@ -2,8 +2,7 @@
 
 - ☁️ Performance Cloud Server [Solbros Cloud](https://solbros.net) 
 - 🧑 Contact: [LinkedIn](https://de.linkedin.com/in/leon-jockschies-8735061ab), [Xing](https://www.xing.com/profile/Leon_Jockschies) 
-- 🕊  Twitter: [Profile](https://twitter.com/DotNetShawn)
-- 💻 C#, VB, JavaScript, Python
+- 💻 C#, VB, JavaScript, Python, SQL
 
 If you contact me trough Xing or LinkedIn, mention "Github" for a response 😏
 
