@@ -1,8 +1,9 @@
 ### Hi there 👋, im Leon!
 
-- ☁️ Performance Cloud Server [Solbros Cloud](https://solbros.net) 
+- ☁️ Web Dev, Consulting and Hosting [Solbros Cloud](https://solbros.net) 
 - 🧑 Contact: [LinkedIn](https://de.linkedin.com/in/leon-jockschies-8735061ab), [Xing](https://www.xing.com/profile/Leon_Jockschies) 
-- 💻 C#, VB, JavaScript, Python, SQL
+- 💻 C#, JavaScript, Python, SQL, Cobol
+- 🤖 DevOps, Cloud, Infrastructur, Scaling, Microservices
 
 If you contact me trough Xing or LinkedIn, mention "Github" for a response 😏
 
