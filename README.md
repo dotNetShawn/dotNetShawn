@@ -1,7 +1,7 @@
 ### Hi there 👋, im Leon!
 
 - ☁️ Web Dev, Consulting and Hosting [Solbros Cloud](https://solbros.net) 
-- 🧑 Contact: [LinkedIn](https://de.linkedin.com/in/leon-jockschies-8735061ab), [Xing](https://www.xing.com/profile/Leon_Jockschies) 
+- 🧑 Contact: [LinkedIn](https://de.linkedin.com/in/leon-jockschies-8735061ab), [Xing](https://www.xing.com/profile/Leon_Jockschies), leon@jockschies.de
 - 💻 C#, JavaScript, Python, SQL, Cobol
 - 🤖 DevOps, Cloud, Infrastructur, Scaling, Microservices
 
